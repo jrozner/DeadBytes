@@ -84,13 +84,13 @@ li {
 
 #github {
   display: block;
-  width: 25px;
-  height: 25px;
+  width: 26px;
+  height: 26px;
   background: url('../images/github.png') no-repeat 0 0;
 }
 
 #github:hover {
-  background-position: 0 -25px;
+  background-position: 0 -26px;
 }
 
 #twitter {
@@ -101,17 +101,17 @@ li {
 }
 
 #twitter:hover {
-  background-position: 0 -18px;
+  background-position: 0 -19px;
 }
 
 #email {
   display: block;
   width: 25px;
-  height: 17px;
+  height: 20px;
   background: url('../images/email.png') no-repeat 0 0;
 }
 
 #email:hover {
-  background-position: 0 -17px;
+  background-position: 0 -20px;
 }
 
