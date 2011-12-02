@@ -97,6 +97,15 @@ li {
   font-family: 'Museo300';
 }
 
+a {
+  text-decoration: none;
+  color: #6699cc;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 #github {
   display: block;
   width: 26px;
