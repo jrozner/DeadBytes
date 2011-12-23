@@ -139,3 +139,29 @@ a:hover {
   background-position: 0 -20px;
 }
 
+#portfolio_container {
+}
+
+#portfolio_left {
+  border: 1px solid black;
+}
+
+#portfolio_right {
+  border: 1px solid black;
+  width: 600px;
+  height: 300px;
+  position: fixed;
+  top: 700px;
+  left: 800px
+}
+/* top right bottom left */
+.project {
+  width: 500px;
+  height: 300px;
+  border: 1px solid black;
+  margin: 40px 0 40px 0;
+}
+
+.clear {
+  clear: both;
+}
